@@ -1,0 +1,82 @@
+<style>
+body 
+{
+    border:3%;
+}
+.main {
+    background-color: aliceblue;
+    border-bottom-style: solid;
+}
+#main-in 
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color:darkblue;
+    overflow: hidden;
+}
+
+#aa 
+{
+    float: left;
+}
+
+ li a{
+        text-decoration: none;
+        color: white;
+        text-align:left;
+        padding: 16px 18px;
+        display: block;
+    }
+
+li a:hover 
+{
+   background-color:red;
+}
+
+logo 
+{
+    position: center;
+    border-bottom-color: aliceblue;
+    margin:1px;
+    padding: 10px;
+}
+img {
+    position: center;
+    width: 20%;
+    height: 20%;
+}
+.storeName
+{
+    float:right;
+}
+.cata
+{
+    margin-top:8px;
+    background-color:blue;
+    
+}
+#table2 td {
+    border: 6px inset black;
+    padding: 10px 20px;
+    background-color: blue;
+    height: 50px;
+    width: 400px;
+}
+#image
+{
+    width:534px;
+    height:520px;
+}
+form 
+{
+    display: grid;
+    margin: auto;
+    width: 800px;
+    grid-gap: 20px;
+}
+
+
+
+</style>
+/** Add any CSS you need to this file. */
